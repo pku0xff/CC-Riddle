@@ -1,2 +1,3 @@
 # CC-Riddle
-CC-Riddle is a question answering dataset of Chinese character riddles.
+
+Data for paper "CC-Riddle: A Question Answering Dataset of Chinese Character Riddles": https://arxiv.org/abs/2206.13778
