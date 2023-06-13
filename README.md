@@ -13,6 +13,8 @@ CC-Riddle: A Question Answering Dataset of Chinese Character Riddles
 
 - Usage
 
+  Before you start, unzip `word.zip` in `data/src_data`.
+  
   To run riddle generation experiments, run the following command:
   ```
     cd generation
