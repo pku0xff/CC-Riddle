@@ -4,7 +4,6 @@ KEY='your_openai_api_key'
 
 # Embed riddles and calculate similarity
 OPENAI_API_KEY=$KEY python embedding.py
-# or use the pre-calculated similarity matrix in 'data' folder
 
 # Retrieval QA
 CUDA_VISIBLE_DEVICES=0 python match.py \
