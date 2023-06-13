@@ -6,7 +6,7 @@ Paper: CC-Riddle: A Question Answering Dataset of Chinese Character Riddles
 
 Data and code: https://github.com/pku0xff/CC-Riddle
 
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The full text of the license can be accessed at the following link: https://creativecommons.org/licenses/by-nc-sa/4.0/
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The full text of the license can be accessed at the following link: https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 We bear all responsibility in case of violation of rights, etc., and confirmation of the data license.
 
@@ -157,7 +157,7 @@ We bear all responsibility in case of violation of rights, etc., and confirmatio
 
 4. **Will the dataset be distributed under a copyright or other intellectual property (IP) license, and/or under applicable terms of use(ToU)?** If so, please describe this license and/or ToU, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms or ToU, as well as any fees associated with these restrictions.
 
-   The dataset can only be used in academic area.
+   This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The full text of the license can be accessed at the following link: https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 5. **Have any third parties imposed IP-based or other restrictions on the data associated with the instances?** If so, please describe these restrictions, and provide a link or other access point to, or otherwise reproduce, any relevant licensing terms, as well as any fees associated with these restrictions.
 
